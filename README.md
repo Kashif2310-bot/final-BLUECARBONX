@@ -2,6 +2,11 @@ BlueCarbonX
 
 Carbon Asset Tokenization – Architecture Prototype
 Overview
+## Demo
+
+A short walkthrough of the system architecture and workflow:
+
+[![BlueCarbonX Demo](https://img.youtube.com/vi/JmnAMk7iiNQ/0.jpg)](https://youtu.be/JmnAMk7iiNQ)
 
 BlueCarbonX is a frontend system prototype that explores how carbon footprint documentation can be structured into a transparent, token-based digital workflow.
 
