@@ -1,8 +1,9 @@
 BlueCarbonX
+
 Carbon Asset Tokenization – Architecture Prototype
 Overview
 
-BlueCarbon Ledger is a frontend system prototype that explores how carbon footprint documentation can be structured into a transparent, token-based digital workflow.
+BlueCarbonX is a frontend system prototype that explores how carbon footprint documentation can be structured into a transparent, token-based digital workflow.
 
 The project models an end-to-end lifecycle:
 
